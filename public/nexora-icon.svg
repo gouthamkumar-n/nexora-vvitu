@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <defs>
+    <linearGradient id="nexoraGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#7B61FF" />
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="12" fill="#0B1437" />
+  <path d="M24 10 L37 17.5 L37 32.5 L24 40 L11 32.5 L11 17.5 Z" stroke="url(#nexoraGrad)" stroke-width="3" fill="none" />
+  <circle cx="24" cy="24" r="5" fill="url(#nexoraGrad)" />
+  <path d="M24 17 L24 21 M24 27 L24 31 M18 24 L21 24 M27 24 L30 24" stroke="#00D4FF" stroke-width="2" stroke-linecap="round" />
+</svg>
